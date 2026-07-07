@@ -1,6 +1,5 @@
 age = 25
 height = float(age)
-
 print (height,age)
 
 height = 10.0
